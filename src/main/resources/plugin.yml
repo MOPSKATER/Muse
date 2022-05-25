@@ -1,0 +1,4 @@
+name: Muse
+version: '${project.version}'
+main: mopskater.muse.Muse
+api-version: 1.18
