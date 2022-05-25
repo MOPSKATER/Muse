@@ -2,3 +2,9 @@ name: Muse
 version: '${project.version}'
 main: mopskater.muse.Muse
 api-version: 1.18
+
+commands:
+  musicianmode:
+    usage: /<command>
+    description: Toggle musician mode
+    aliases: [mm]
